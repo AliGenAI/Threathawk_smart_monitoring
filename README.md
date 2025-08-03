@@ -23,6 +23,10 @@ Clone this repository on your local directory.
 * streamlit run (streamlit run wazuh_client.py)
 
 ## Original Authors:
+To runa t your local system:
+* You need .env file and requirement.txt file
+* if not available in repository contact [AliGenAI](https://github.com/AliGenAI) 
+ 
 
 Contributors names and contact info
 
